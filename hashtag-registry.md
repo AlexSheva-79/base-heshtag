@@ -7,11 +7,15 @@
 ---
 
 ## Мультяшная пародийная линия
-_(PURR-P FICTION, TAIL-TANIC, TAIL OF THRONES, Star Wars пародия, Greensleeves)_
+_(PURR-P FICTION, TAIL-TANIC, TAIL OF THRONES, Star Wars пародия, Greensleeves, карандашная pencil-style карусель "коты-пародии на живопись")_
 
 | Тег | Проверен | Статус | Комментарий |
 |---|---|---|---|
-| | | | |
+| #catillustration | 2026-08-23 | ✅ | Ниша ~сотни тысяч постов, точно по теме мультяшной карандашной иллюстрации котов |
+| #catart | 2026-08-23 | ✅ | Ниша, тематически совпадает с pencil-technique артом |
+| #petillustration | 2026-08-23 | ✅ | Нишевый тег для иллюстраций питомцев |
+| #childrensbookillustration | 2026-08-23 | ✅ | Точно попадает в стиль "soft children's-illustration" проекта |
+| #catdrawing | 2026-08-23 | ✅ | Средний объём, узнаваемый нишевый тег для рисованных котов |
 
 ---
 
